@@ -8,15 +8,11 @@
   Improve your workflow, manage sessions, and work more efficiently with AI coding agents.
 </p>
 
-<p align="center">
-  <a href="README.es.md" style="text-decoration:none; border:0;">
-    <img src="https://img.shields.io/badge/ESPAÑOL-LEER_DOCUMENTACIÓN_%E2%AC%87?style=for-the-badge&labelColor=%23D50000&color=%23D50000" alt="Leer documentación en español" style="border:0; text-decoration:none;">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="README.en.md" style="text-decoration:none; border:0;">
-    <img src="https://img.shields.io/badge/ENGLISH-READ_DOCUMENTATION_%E2%AC%87?style=for-the-badge&labelColor=%230033CC&color=%230033CC" alt="Read documentation in English" style="border:0; text-decoration:none;">
-  </a>
-</p>
+
+Choose your language:
+
+[![Español](assets/boton-es.svg)](README.es.md) [![English](assets/boton-en.svg)](README.en.md)
+
 
 ---
 
