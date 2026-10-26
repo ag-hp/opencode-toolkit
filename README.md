@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="README.es.md">
-    <img src="https://img.shields.io/badge/ESPA%C3%91OL-Leer%20documentaci%C3%B3n-red?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Leer documentación en español">
+  <a href="README.es.md" style="text-decoration:none; border:0;">
+    <img src="https://img.shields.io/badge/ESPAÑOL-LEER_DOCUMENTACIÓN_%E2%AC%87?style=for-the-badge&labelColor=%23D50000&color=%23D50000" alt="Leer documentación en español" style="border:0; text-decoration:none;">
   </a>
-  &nbsp;
-  <a href="README.en.md">
-    <img src="https://img.shields.io/badge/ENGLISH-Read%20documentation-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Read documentation in English">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="README.en.md" style="text-decoration:none; border:0;">
+    <img src="https://img.shields.io/badge/ENGLISH-READ_DOCUMENTATION_%E2%AC%87?style=for-the-badge&labelColor=%230033CC&color=%230033CC" alt="Read documentation in English" style="border:0; text-decoration:none;">
   </a>
 </p>
 
