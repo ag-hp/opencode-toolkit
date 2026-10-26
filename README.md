@@ -1,17 +1,13 @@
 # OpenCode Toolkit
 
 <p align="center">
-  <strong>A practical guide to commands, context management, and productivity.</strong>
+  <strong>Choose your language:</strong>
 </p>
 
 <p align="center">
-  Improve your workflow, manage sessions, and work more efficiently with AI coding agents.
+  <a href="README.es.md"><img src="assets/boton-es.svg" alt="Español"></a>
+  <a href="README.en.md"><img src="assets/boton-en.svg" alt="English"></a>
 </p>
-
-
-Choose your language:
-
-[![Español](assets/boton-es.svg)](README.es.md) [![English](assets/boton-en.svg)](README.en.md)
 
 
 ---
